@@ -45,3 +45,12 @@ https://your-live-site-link.com
 ---
 
 ## 📂 Project Structure
+src/
+│
+├── components/ # Reusable UI components
+├── pages/ # App pages (Home, Book Details, Cart, etc.)
+├── routes/ # React Router setup
+├── data/ # Static book data (if any)
+├── hooks/ # Custom hooks
+├── styles/ # Tailwind styles
+└── App.jsx
